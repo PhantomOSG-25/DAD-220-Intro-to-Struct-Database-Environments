@@ -1,0 +1,6 @@
+*.sqlitedb
+*.db
+*.bak
+*.dump
+.idea/
+.vscode/
